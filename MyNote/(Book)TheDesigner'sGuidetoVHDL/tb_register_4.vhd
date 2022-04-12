@@ -1,8 +1,10 @@
 entity test_bench is
 end entity;
-/*Entity of tb has no port list since tb is entirely self-contained. The
-architecture body contain signals that are connected to inp and outp port of
-component DUT*/
+  
+--Entity of tb has no port list since tb is entirely self-contained. The
+--architecture body contain signals that are connected to inp and outp port of
+--component DUT 
+  
 architecture test_reg4 is
                signal  d0,d1,d2,d3,en,clk,q0,q1,q2,q3: bit;
              begin
