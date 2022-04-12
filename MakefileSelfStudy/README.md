@@ -16,3 +16,4 @@ If you wantto give more generic permissions, you can execute something similar t
 
 `chmod 777 script_name.sh`
 
+[make and Makefiles Ryerson Polytechnic University](https://www.ee.ryerson.ca/~elf/ele428/makefile-tutorial.html)
